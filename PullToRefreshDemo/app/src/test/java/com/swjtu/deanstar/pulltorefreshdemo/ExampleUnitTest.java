@@ -1,4 +1,4 @@
-package com.swjtu.deanstart.pulltorefreshdemo;
+package com.swjtu.deanstar.pulltorefreshdemo;
 
 import org.junit.Test;
 

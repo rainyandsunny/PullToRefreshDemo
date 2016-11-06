@@ -1,4 +1,4 @@
-package com.swjtu.deanstart.pulltorefreshdemo;
+package com.swjtu.deanstar.pulltorefreshdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -24,6 +24,6 @@ public class ExampleInstrumentationTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.swjtu.deanstart.pulltorefreshdemo", appContext.getPackageName());
+        assertEquals("com.swjtu.deanstar.pulltorefreshdemo", appContext.getPackageName());
     }
 }
